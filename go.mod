@@ -18,6 +18,7 @@ require (
 	github.com/go-sanitize/sanitize v1.1.0
 	github.com/goccy/go-json v0.10.3
 	github.com/gomarkdown/markdown v0.0.0-20240626202925-2eda941fd024
+	github.com/gorilla/csrf v1.7.2
 	github.com/gorilla/sessions v1.3.0
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/joho/godotenv v1.5.1
@@ -28,7 +29,6 @@ require (
 	github.com/valyala/bytebufferpool v1.0.0
 	github.com/wcharczuk/go-chart/v2 v2.1.1
 	github.com/zeebo/xxh3 v1.0.2
-	golang.org/x/exp v0.0.0-20240613232115-7f521ea00fb8
 )
 
 require (
@@ -61,6 +61,7 @@ require (
 	github.com/ysmood/gson v0.7.3 // indirect
 	github.com/ysmood/leakless v0.8.0 // indirect
 	golang.org/x/crypto v0.25.0 // indirect
+	golang.org/x/exp v0.0.0-20240613232115-7f521ea00fb8 // indirect
 	golang.org/x/image v0.18.0 // indirect
 	golang.org/x/sync v0.8.0 // indirect
 	golang.org/x/sys v0.23.0 // indirect
